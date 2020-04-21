@@ -920,3 +920,4 @@ Hackathon Hackers' GitHub profiles
 - Zane Blackwell Sterling https://github.com/Shriken
 - Zhou Yi https://github.com/ZhouYii
 - 서태웅 (Justice Suh) https://github.com/justicesuh
+- Adarsh Agrahari https://github.com/sir-ad
